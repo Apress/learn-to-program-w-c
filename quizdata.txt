@@ -1,0 +1,4 @@
+        "Trinidad"  "Port of Spain"  "PORTOFSPAIN"
+        "Jamaica"  "Kingston"  "KINGSTON"
+        "Grenada"  "St. George's"  "STGEORGES"
+        "*"
